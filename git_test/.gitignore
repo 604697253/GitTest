@@ -1,2 +1,8 @@
 /bin/
+<<<<<<< HEAD
 /target/
+=======
+.classpath
+.project
+.settings
+>>>>>>> branch 'master' of https://github.com/604697253/GitTest.git
